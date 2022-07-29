@@ -1,0 +1,171 @@
+.div1 {width: 1550px;
+    height:200px;
+margin-top: 7cm;
+
+position: absolutes;
+
+background-color: #371b58
+
+}
+
+.p5 {
+ position: absolute;
+    font-family: 'Allerta', sans-serif;  
+   font-size: 20px;
+}
+
+.p6 {    
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+.music{
+    position: absolute;
+
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 40px;
+    margin-left: 14cm;
+    margin-top: -2.5cm;
+    
+}
+.spo {
+    position: absolute;
+     margin-top: -5cm;
+     margin-left: 3cm;
+     border-radius: 100%;
+    
+     
+      width: 100px;
+      height: 100px;
+      
+      transition: width 2s;
+    }
+    
+    .spo:hover {
+      width: 120px;
+      height: 100px
+    }
+     
+     
+
+     
+
+.app {width: 100px;
+    height: 100px;
+    transition: width 2s;
+  }
+  
+  .app:hover {
+    width: 120px;
+    height: 100px
+  }
+  
+  
+
+
+
+      
+  
+
+    .button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+      }
+      
+      .button1 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #4CAF50;
+      }
+      
+      .button1:hover {
+        background-color: #4CAF50;
+        color: white;
+      }
+      
+      .button2 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #008CBA;
+      }
+      
+      .button2:hover {
+        background-color: #008CBA;
+        color: white;
+      }
+      
+      .button3 {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #f44336;
+      }
+      
+      .button3:hover {
+        background-color: #f44336;
+        color: white;
+      }
+      
+      .button4 {
+        background-color: white;
+        color: black;
+        border: 2px solid #e7e7e7;
+      }
+      
+      .button4:hover {background-color: #e7e7e7;}
+      
+      .core{
+
+        position: absolute;
+
+        margin-left: 30cm;
+        margin-top: calc(-185px);
+      }
+
+      .waves{
+
+        position: absolute;
+
+        margin-left: 30cm;
+        margin-top: calc(-100px);
+      }
+
+      .aa {
+        width: 100px;
+        height: 100px;
+        background: #7858A6;
+        transition: width 2s;
+    border-radius: 80%;
+        
+      }
+      
+      .sn{
+position: absolute;
+color: aliceblue;
+margin-top: -4cm;
+margin-left: 900px;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+
+      }
+
+.aaa {
+  width: 100px;
+  height: 100px;
+
+  transition: width 2s;
+}
+
+.aaa:hover {
+  width: 120px;
+  height: 100px
+
+
+}
+     
